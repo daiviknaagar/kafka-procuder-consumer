@@ -1,0 +1,41 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  background-color: rgb(53, 165, 189);
+}
+
+h1 {
+  font-size: 30px;
+}
+
+table {
+  justify-self: center;
+}
+
+th {
+  justify-content: center;
+  border: 3px white solid;
+  border-radius: 2px;
+  width: 200px;
+}
+
+td {
+  justify-content: center;
+  color: whitesmoke;
+  border: 3px white solid;
+  border-radius: 2px;
+  width: 200px;
+}
+
+td {
+  justify-content: end;
+  font-weight: 700;
+}
+
+input {
+  color: white;
+  background-color: transparent;
+  border: 3px white solid;
+  border-radius: 2px;
+  width: 600px;
+}
